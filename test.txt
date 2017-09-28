@@ -1,2 +1,9 @@
 test file
 Update with Tortoise
+Starting changes from tortoise
+one two :dots
+
+................................
+<<END dots
+123 four five six
+Let`s hope that this is enough.
